@@ -4,6 +4,13 @@ So goldchest... Where do I begin?
 I started to think that it would be cool to have some kind of Pool of Radiance type game but modernize it with 3d graphics etc.. Also I want to implement ideas I've seen in other old era games where it makes sense (some Bard's Tale concepts see below for example).
 So currently you'll see that in the 1st person view it's 3d with support for lighting, sky textures, animation and even 3d models! Some of this is not implemented yet but it can be. Also I have positional sound working so you'll hear shops in the distance.
 
+[Credits](credits.md)
+
+[getting-started](getting-started.md)
+
+[Roadmap](roadmap.md)
+
+
 ## Installing
 
 There's no installer required for this game. Just download the ZIP appropriate for win or mac then unzip. There will be a goldchest folder and .exe or .app to run.
