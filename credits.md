@@ -9,6 +9,7 @@
 * Reiner Prokein (https://web.archive.org/web/20080114192357/http://reinerstileset.4players.de/monstersE.html) for various artwork, sounds and ideas
 * https://opengameart.org/
 * https://Zapsplat.com for some of the sound effects
+* https://freesound.org/ for some sound clips
 
 ## Tools
 

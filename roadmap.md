@@ -1,5 +1,18 @@
 # Roadmap
 
+Version 1.0.0.4
+
+* New UI uplift! Cleaned up user interface styles in various screens.
+* Refresh Player character Icons supporting a gazillion combinations
+* Added new options for player icon definition - size, colors, clothes
+* Fixed various icon related bugs
+* Changed Spell teamOnly to allow monsters to cast spells like heal on teammates
+* Added some new Monster sounds
+* Added Mass Heal spell (area same as fireball)
+* Added special attack to Abilities (allows for critical hit etc...)
+* Added Shocking Grasp spell
+* On Windows the Game will properly restart on everyone dead (Mac todo) 
+ 
 Version 1.0.0.3
 
 * Update to Java 22 and JavaFX 22
