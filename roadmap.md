@@ -1,5 +1,37 @@
 # Roadmap
 
+Version 1.0.0.5
+
+* New Time of Day lighting and dark areas (dungeons) ready your torches and lanterns 
+* Added NPC Player recruitment option at tavern
+* New UI colorized texts in the player list panel
+* Added Tactics ability in Fighter Guild which adds "AREA" menu in combat to see an overhead view
+* Added swimming ability and areas to reach by swimming
+* Added Throwing weapons which return!
+* Updated Basic Cartography ability - additional features if a player has it and a map of their location
+* ENLARGE for mini players is safe since they don't become "tall" (dwarf and hobbit size)
+* Added RANDOM to Icon menu to randomize character appearance
+* Added Range and Melee to AbilityType which act as special attacks (like critical hit)
+* Updated Elfin bowmanship ability to give critical hit chance
+* F1 opens web page with documentation
+* F2 in combat puts all players in "auto" mode
+* Added AI weapon throwing (will not do it if the weapon is not returnable)
+* New Treasure chest pic
+* Replaced grey lizard with crocodile
+* Added Thieves with "Pick pocket" may snatch thrown weapons
+* New spell effects graphics
+* Improved text panel scrolling
+* Enlarged window size slightly for more text and combat space
+* Added message when players hone their weapons
+* Added new sounds
+* Adjusted camera in combat so Icons appear more clearly
+* Fix teleport onto your thrown weapon to pick up 
+* Put item tiles (for thrown weapons) above other tiles, so you can always see them
+* Fix trade in combat changing selected character
+* Fix game loading duplicating spell effects
+* Fix goes down! message (wrong order)
+* Fix WEAPON menu appears, but you can't change weapon because no ammo
+
 Version 1.0.0.4
 
 * New UI uplift! Cleaned up user interface styles in various screens.

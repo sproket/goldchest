@@ -1,5 +1,12 @@
 # Getting started
 
+Note about D&D rules
+
+Early on I decided that I don't want to be committed to D&D rules, although I do reference some
+of it for monster levels etc.. Monsters may surprise you though as they have other abilities.  
+I'm using 100 based numbers rather than 18. 100 is max human level for your reference when
+rolling.
+
 ## Game User Interface
 
 Goldchest keeps to the old skool keyboard user interface. Use left and right arrow keys to 
@@ -24,15 +31,16 @@ add to your party, but I've been usually playing with 4.
 
 Once you begin you'll find yourself in the wilderness. There's a sign nearby where an old man 
 says something. If you head south you'll find the town.  While at level 0 you won't get any 
-random monster encounters.  Once in the town you can view the map (which doesn't show much yet). 
+random monster encounters.  
 
-Wander around to find the guilds to train up to level 1.
+Once in the town you can find a general store to your left along the south side. Pick up a compass 
+and a map of the town to help you navigate around. There are many shops and places to visit here. 
+
+Wander around to find the guilds to train up to level 1.  You may want to learn basic cartography and 
+a weapon skill matching your startup weapon.
 
 
 
-D&D
-
-Early on I decided that I don't want to be committed to D&D rules although I do reference some of it for monster levels etc.. Monsters may surprise you though as they have other abilities.  I'm using 100 based numbers rather than 18. 100 is max human level for your reference when rolling.
 
 Movement
 
@@ -60,16 +68,16 @@ General Store - buy and sell some general items (all will be useful eventually b
 
 Taylor - buy, sell and repair cloaks, robes and leather items.
 
-Tavern - place to hear rumors.
+Tavern - place to hear rumors and recruit new NPC characters to join your party if you wish.
 
 Inn - place to rest (health and mana slowly restored for 1 gold per day).
 
 Jeweler - buy and sell gems and jewels.
 
-Bank - store money and items. Also you can take loans if you're strapped for cash.
+Bank - store money and items. Also, you can take loans if you're strapped for cash.
 Spells
 
-Currently spells "work" but the magic system is not completed.  Any character can cast any spell as long as they have mana points. This is in-progress.
+Currently, spells "work" but the magic system is not completed.  Any character can cast any spell as long as they have mana points. This is in-progress.
 
 How I want it to work (let me know what you think):
 
@@ -77,9 +85,9 @@ Mage
 
 Mage class can train for any 4 basic magic classes Conjurer, Magician, Enchanter, Illusionist.
 
-One they have those they can train on the higher level magic classes: Wizard, Sorcerer.
+Once they have those they can train on the higher level magic classes: Wizard, Sorcerer.
 
-Finally once they have that and are at level 20 they can train on Necromancer.
+Finally, once they have that and are at level 20 they can train on Necromancer.
 Each would have separate spells in their "spell book".
 
 Cleric
@@ -113,10 +121,7 @@ Combat
 
 There are a variety of pre-fab combat encounters that once you find, you can go back to as they reset when you enter the same area again (for now). For now you can always exit combat and "win" by choosing "END" in the combat menu. (easier for leveling up testing)
 There also random encounters which are tuned to your number of players and average level so combat will always be challenging.
-This game is currently "ALPHA" so it works but there's a lot left to do!
-Here's the link to discord:
-
-
+This game is currently "ALPHA" so it works but there's a lot or work left to do!
 
 Spells work like Bards Tale use the CAST menu and type one of the codes in.
 Some can be cast outside combat like heal and strength, the others are combat only.
@@ -133,5 +138,5 @@ To get the coordinate of where you are to appear, have someone train for Basic C
 
 To get the compass to appear buy one at the General Store.
 
-Yeah at first you have to move around kind of blindly in the town to find things. :)
+Yeah, at first you have to move around kind of blindly in the town to find things. :)
 
