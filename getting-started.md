@@ -140,3 +140,90 @@ To get the compass to appear buy one at the General Store.
 
 Yeah, at first you have to move around kind of blindly in the town to find things. :)
 
+
+
+## Abilities
+
+### Ability Types
+
+#### Profession
+
+Used to distinguish levels from other abilities.
+
+#### Melee
+
+Used to indicate that this ability may happen when doing a melee attack.
+Will include Spell (Special Attack) and Special Attack chance fields.
+These do drain some mana. Generally it should be a lower number or zero is OK
+because they won't get this special attack if they don't have enough mana.
+
+#### Combat, Other, Skill, Subclass etc...
+
+Not used yet...
+
+#### Special abilities
+
+##### Guarding
+
+Characters automatically guard when they end their turn as long as they haven't casted a spell or are using a ranged weapon.
+This means they will get a *single* melee attack if an enemy moves within their melee range.
+Training this ability means the character will continue guarding even after doing that attack.
+In addition the the melee attack will only use 1 move point rather than the usual 2 points.
+
+
+##### Botany
+
+Characters trained on botany will be able to identify plants while in combat
+since some of those plants may have effects on the character when they stand
+on them.
+
+##### Basic cartography
+
+Characters trained on basic cartography will give the party a coordinate while in indoor areas.
+Additionally, if an area has a map purchased from a general store, the party will be able to see
+extra details on the map like locations of shops and other interesting areas. If the area doesn't
+have a map, basic cartography will allow the party to see a small surrounding region of the map.
+
+##### Advanced cartography
+
+Characters trained on advanced cartography will be able to auto-map areas that don't have maps.
+
+##### Advanced throwing .... (missing some for dagger and axe)
+
+In addition to giving some damage and chance to hit bonuses, advanced throwing adds
+a possibility of doing a critical hit.
+
+##### Tactics
+
+Higher level fighters can train on tactics. This ability gives the player the
+option of seeing an area map of the combat arena.
+
+##### Pick pocket
+
+Thieves may opt to learn the art of pick pocketing. This skill gives a chance
+of grabbing items/money from monsters when the character does a melee attack.
+
+
+##### Looting
+
+Thieves learning the art of looting may collect items/money from dead monsters in combat.
+
+##### Disguise
+
+Thieves learning the art of disguise may opt to disguise as dead monsters in combat. Disguised characters
+are ignored by enemy monsters. The disguise is lost when doing a melee attack.
+
+
+##### Infiltration
+
+High level thieves may study the skill of infiltration. Infiltration is an advanced form of disguise
+allowing the character to disguise as any monster type or size. In addition the character
+will have a higher chance of maintaining this disguise even when doing a melee attack.
+
+##### Back stab
+
+Thieves learning the art of back stabbing will double their melee attack damage when striking an opponent from behind.
+
+
+
+
