@@ -44,7 +44,8 @@ a weapon skill matching your startup weapon.
 
 Movement
 
-In the 3d view use the normal keys to move around. I have a new feature to allow angle movements as well but not everywhere since it's just an idea for a new feature. In combat all the directions are supported.
+In the 3d view use the normal keys to move around. I have a new feature to allow angle movements as well but not everywhere since it's just an idea for a new feature. 
+In combat all the directions are supported.
 
 Leveling
 Currently I use 4 core classes: Fighter, Thief, Cleric and Mage. Characters start at level 0 (with gold and some equipment) and can freely choose any combinations when leveling (up to 20 levels total available).
@@ -119,7 +120,9 @@ disp    6.0        0            Dispossess
 
 Combat
 
-There are a variety of pre-fab combat encounters that once you find, you can go back to as they reset when you enter the same area again (for now). For now you can always exit combat and "win" by choosing "END" in the combat menu. (easier for leveling up testing)
+There are a variety of pre-fab combat encounters that once you find, you can go 
+back to as they reset when you enter the same area again (for now). For now,
+you can always exit combat and "win" by choosing "EXIT" in the combat menu. (easier for leveling up testing)
 There also random encounters which are tuned to your number of players and average level so combat will always be challenging.
 This game is currently "ALPHA" so it works but there's a lot or work left to do!
 
