@@ -168,10 +168,10 @@ Not used yet...
 
 ##### Guarding
 
-Characters automatically guard when they end their turn as long as they haven't casted a spell or are using a ranged weapon.
+Characters automatically guard when they end their turn as long as they haven't cast a spell or are using a ranged weapon.
 This means they will get a *single* melee attack if an enemy moves within their melee range.
 Training this ability means the character will continue guarding even after doing that attack.
-In addition the the melee attack will only use 1 move point rather than the usual 2 points.
+In addition, the melee attack will only use 1 move point rather than the usual 2 points.
 
 
 ##### Botany
@@ -204,12 +204,12 @@ option of seeing an area map of the combat arena.
 ##### Pick pocket
 
 Thieves may opt to learn the art of pick pocketing. This skill gives a chance
-of grabbing items/money from monsters when the character does a melee attack.
+of grabbing items/money from opponents when the character does a melee attack.
 
 
 ##### Looting
 
-Thieves learning the art of looting may collect items/money from dead monsters in combat.
+Thieves learning the art of looting may collect items/money from dead opponents in combat.
 
 ##### Disguise
 
