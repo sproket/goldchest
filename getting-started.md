@@ -223,9 +223,9 @@ High level thieves may study the skill of infiltration. Infiltration is an advan
 allowing the character to disguise as any monster type or size. In addition the character
 will have a higher chance of maintaining this disguise even when doing a melee attack.
 
-##### Back stab
+##### Backstab
 
-Thieves learning the art of back stabbing will double their melee attack damage when striking an opponent from behind.
+Thieves learning the art of backstabbing will double their melee attack damage when striking an opponent from behind.
 
 
 
