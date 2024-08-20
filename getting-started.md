@@ -59,9 +59,10 @@ Fighter Guild - where to train fighter abilities.
 
 Thief Guild - where to train thief abilities.
 
-Mage Guild - where to train mage abilities. Also can recharge mana points for money.
+Mage Guild - where to train mage abilities. Also, players can recharge mana points for money.
 
-Temple - where to train cleric abilities. Also can heal players for money.
+Temple - where to train cleric abilities. Also, players can be healed for money.
+
 Armory - buy and sell equipment.
 
 Blacksmith - buy, sell and repair equipment which usually is not 100% best condition.
@@ -220,7 +221,7 @@ are ignored by enemy monsters. The disguise is lost when doing a melee attack.
 ##### Infiltration
 
 High level thieves may study the skill of infiltration. Infiltration is an advanced form of disguise
-allowing the character to disguise as any monster type or size. In addition the character
+allowing the character to disguise as any monster type or size. In addition, the character
 will have a higher chance of maintaining this disguise even when doing a melee attack.
 
 ##### Backstab
