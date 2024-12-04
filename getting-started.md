@@ -7,6 +7,7 @@ of it for monster levels etc.. Monsters may surprise you though as they have oth
 I'm using 100 based numbers rather than 18. 100 is max human level for your reference when
 rolling.
 
+
 ## Game User Interface
 
 Goldchest keeps to the old skool keyboard user interface. Use left and right arrow keys to 
@@ -26,8 +27,8 @@ as well:
 
 ## Starting a game
 
-Once the game starts you can create some characters. I don't have any limit on how many characters you can
-add to your party, but I've been usually playing with 4.
+Once the game starts you can create some characters. You may have up to 9 characters in your party, 
+but you might want less than that since you can recruit NPC characters when visiting taverns.
 
 Once you begin you'll find yourself in the wilderness. There's a sign nearby where an old man 
 says something. If you head south you'll find the town.  While at level 0 you won't get any 
@@ -38,9 +39,6 @@ and a map of the town to help you navigate around. There are many shops and plac
 
 Wander around to find the guilds to train up to level 1.  You may want to learn basic cartography and 
 a weapon skill matching your startup weapon.
-
-
-
 
 Movement
 
@@ -144,6 +142,12 @@ To get the compass to appear buy one at the General Store.
 
 Yeah, at first you have to move around kind of blindly in the town to find things. :)
 
+## Weapons
+
+There are various weapons in the game which have associated abilities (see [Abilities](#abilities)). 
+The associated abilities provide bonuses to-hit chance for the player. Once a player has acquired all 
+abilities associated with a Melee weapon, that weapon will be treated as though it's a 1 handed weapon
+even if it normally is a 2 handed weapon.
 
 
 ## Abilities
@@ -230,5 +234,44 @@ Thieves learning the art of backstabbing will double their melee attack damage w
 
 ##### TODO MORE later
 
+## Magic Items
+
+Various magic items can be found throughout the game including weapons, armor, shields, etc. 
+These are other common types of items that can be found and how they work.
+
+Some may have negative effects or may be cursed (not able to drop or unequip).
+
+Items appear usually in an unidentified state. You may check a variety of shops to see if they can identify for you.
+
+Characters with certain abilities may identify items automatically.
+
+### Potions
+
+Potions are single use with a variety of spell effects. Some can be used in camp as well as combat. 
+They can only be used on yourself.
+
+### Wands
+
+Wands may have multiple uses and require hands to use. You may use them as a melee weapon as well if you're desperate. 
+
+### Scrolls
+
+Scrolls are single use with a variety of spell effects. Some can be used in camp as well as combat. 
+Scrolls can also be memorized by players, so they can cast the spell even if they have no magic or spell books.    
 
 
+### Rings
+
+Rings have a variety of effects that happen when you equip (wear) them.
+
+## Cursed items
+
+Items may be cursed. Cursed items have the following characteristics:
+
+* If equipped they cannot be unequipped.  The curse will need to be removed at a temple.
+* If unequipped they can be identified and dropped - but they cannot be traded, sold or deposited.
+* Usually they will have negative consequences to the character while they are in the character's possession.
+* Magic cursed items will usually have a negative consequence if used.
+* They do not wear out over time due to use or damage. They can only be removed at a temple.
+* Cursed scrolls if memorized will remove spells from your spell books or DRAIN IQ! They will return once you remove the cursed item.
+* Players who are cursed cannot equip any item.
