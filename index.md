@@ -8,6 +8,7 @@ Goldchest is an attempt to bring the old goldbox styled games to modern hardware
 * [Download](download.md)
 * [Discord link](https://discord.gg/maNZztT56N)
 * [Getting started](getting-started.md)
+* [Manual](manual.md)
 
 So Goldchest... Where do I begin?
 

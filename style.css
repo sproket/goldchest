@@ -367,6 +367,7 @@ hr {
 ul,
 ol {
     padding-left: 2em;
+    color: #544943 !important;
 }
 
 ul ul,

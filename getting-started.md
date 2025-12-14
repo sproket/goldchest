@@ -275,3 +275,12 @@ Items may be cursed. Cursed items have the following characteristics:
 * They do not wear out over time due to use or damage. They can only be removed at a temple.
 * Cursed scrolls if memorized will remove spells from your spell books or DRAIN IQ! They will return once you remove the cursed item.
 * Players who are cursed cannot equip any item.
+* Cursed weapons will make the character worse on attacks.
+* Cursed armor (Armor, Boots, Bracers, Clothes, Gloves, Helm, Shield) will give the character low protection even though it appears the character has protection.
+
+*Note: Items may become cursed if shoplifted.*
+
+
+
+
+
