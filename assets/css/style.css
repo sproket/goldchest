@@ -83,7 +83,7 @@ header, footer, section {
 
 div.shell {
     display: block;
-    width: 670px;
+    /*width: 670px;*/
     margin: 0 auto
 }
 
