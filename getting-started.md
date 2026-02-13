@@ -188,19 +188,21 @@ Each would have separate spells in their "spell book".
 
 Clerics gain spells at temples if they are "worthy".  
 
-Current spell list:
+## Current Spell List
 
 duration in minutes
-<pre>
-Conjurer
+
+#### Conjurer
+~~~
 Code	Level	Range	Duration	Mana	Type	Spell
 fiba	7	6.0	0	20	Fire	Fire ball
 fibo	3	6.0	0	7	Fire	Fire bolt
 sudf	3	6.0	0	12	Earth	Summon Giant Gold Dragon Fly
 suwo	5	6.0	0	10	Earth	Summon Wolf
 emel	3	0.0	0	7	Skill	Emergency light
----
-Enchanter
+~~~
+#### Enchanter
+~~~
 Code	Level	Range	Duration	Mana	Type	Spell
 enla	5	0.0	0	10	Magic	Enlarge
 hast	3	0.0	1440	20	Magic	Haste
@@ -208,15 +210,17 @@ itom	2	3.0	0	20	Skill	Immunity from magic
 prom	2	3.0	720	20	Skill	Protection from magic
 stre	3	1.5	1440	20	Magic	Strength
 engl	4	1.0	1440	10	Magic	Enchanted glow
----
-Illusionist
+~~~
+#### Illusionist
+~~~
 Code	Level	Range	Duration	Mana	Type	Spell
 fear	4	1.5	25	20	Mind	Fear
 feeb	8	4.0	60	20	Mind	Feeble mind
 refe	6	6.0	0	40	Mind	Remove Fear
 ilwo	7	6.0	0	20	Illusion	Illusionary Wolf
----
-Magician
+~~~
+#### Magician
+~~~
 Code	Level	Range	Duration	Mana	Type	Spell
 mami	1	6.0	0	10	Magic	Magic Missile
 shgr	4	1.5	0	15	Magic	Shocking Grasp
@@ -224,8 +228,9 @@ stcl	5	6.0	100	20	Air	Stinking Cloud
 sual	1	2.0	0	2	Earth	Summon Horned Rabbit
 tepo	7	8.0	0	30	Magic	Teleport
 orbl	1	1.0	720	7	Magic	Orb of light
----
-Sorcerer
+~~~
+#### Sorcerer
+~~~
 Code	Level	Range	Duration	Mana	Type	Spell
 deil	12	0.0	0	60	Mind	Destroy Illusions
 ilbd	12	6.0	0	30	Illusion	Illusionary Black Dragon
@@ -235,8 +240,9 @@ orfe	6	6.0	60	20	Mind	Orb of Fear
 stup	8	4.0	0	40	Mind	Stupify
 terr	12	1.5	50	40	Mind	Terrify
 mifs	5	6.0	0	7	Mind	Mind Fist
----
-Wizard
+~~~
+#### Wizard
+~~~
 Code	Level	Range	Duration	Mana	Type	Spell
 disp	10	6.0	0	30	Mind	Dispossess
 fibl	8	8.0	0	30	Fire	Fire blast
@@ -247,12 +253,12 @@ subd	12	6.0	0	60	Earth	Summon Black Dragon
 subl	12	8.0	0	80	Earth	Summon Blue Dragon
 sugs	7	6.0	0	20	Earth	Summon Giant Skeleton
 icbl	8	8.0	0	30	Cold	Ice blast
----
-Necromancer
+~~~
+#### Necromancer
+~~~
 Code	Level	Range	Duration	Mana	Type	Spell
 susg	16	12.0	0	100	Air	Summon Cloud Genie
-
-</pre>
+~~~
 
 ## Combat
 

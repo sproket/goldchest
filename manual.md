@@ -1,5 +1,8 @@
 # Goldchest whatever title this will be
 
+[//]: # (https://www.w3schools.com/howto/howto_html_include.asp)
+[//]: # ( <div w3-include-html="content.html"></div> )
+
 ## Introduction
 
 blah blah blah
