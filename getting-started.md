@@ -104,8 +104,9 @@ Once you begin you'll find yourself in the wilderness. There's a sign nearby whe
 says something. If you head south you'll find the town.  While at level 0 you won't get any 
 random monster encounters.  
 
-Once in the town you can find a general store to your left along the south side. Pick up a compass 
-and a map of the town to help you navigate around. There are many shops and places to visit here. 
+Once in the town you can find a general store to your left along the south side. Buy a compass (which will display)
+and a map of the town to help you navigate around. There are many shops and places to visit here.
+
 
 Wander around to find the guilds to train up to level 1. The character should also learn basic weapon proficiency for their preferred weapon.  
 
@@ -114,6 +115,10 @@ For mages the character should also pick up a spell codex. Conjurer or Magician 
 For clerics they should pray to get cleric spells from the temple. 
 
 While you're at the guild someone in the party might want to learn basic cartography which helps with reading the maps and gives you your current coordinate in the area.
+
+[//]: # (Thief guild is at 4,4, Fighter guild is at 13,3, Mage guild is at 13,15, Temple is at 6,12. &#40;I use ROW,COL&#41; I think originally it was COL,ROW which I can fix later.)
+
+
 
 #### Movement
 
@@ -263,27 +268,15 @@ susg	16	12.0	0	100	Air	Summon Cloud Genie
 ## Combat
 
 There are a variety of pre-fab combat encounters that once you find, you can go 
-back to as they reset when you enter the same area again (for now). For now,
+back to as they reset when you enter the same area again. For now,
 you can always exit combat and "win" by choosing "EXIT" in the combat menu. (easier for leveling up testing)
 There also random encounters which are tuned to your number of players and average level so combat will always be challenging.
-This game is currently "ALPHA" so it works but there's a lot or work left to do!
 
-Spells work like Bards Tale use the CAST menu and type one of the codes in.
-Some can be cast outside combat like heal and strength, the others are combat only.
+Some spells can be cast outside combat like heal and strength, the others are combat only.
 
-For races there are adjustments to the rolling attributes. Check in your home folder\goldchest\races.csv file. Race may have other effects later on.
 
-To rest, go to an Inn. REST menu will rest characters and restore mana and hp.
+After combat to rest, go to an Inn. REST menu will rest characters and restore mana and hp.
 
-Classes are chosen by going to one of the guilds and using the LEVEL menu. You can mix classes in any combination.
-
-Thief guild is at 4,4, Fighter guild is at 13,3, Mage guild is at 13,15, Temple is at 6,12. (I use ROW,COL) I think originally it was COL,ROW which I can fix later.
-
-To get the coordinate of where you are to appear, have someone train for Basic Cartography.
-
-To get the compass to appear buy one at the General Store.
-
-Yeah, at first you have to move around kind of blindly in the town to find things. :)
 
 ## Weapons
 

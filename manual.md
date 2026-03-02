@@ -301,7 +301,11 @@ status.
 If the selected character is user controlled you will see the combat menu.
 Use the combat menu to move, select and cast spells, check inventory etc.
 The combat menu contains most of what's available normally except trading 
-and dropping items (unless you're a thief see ####THIEF?) 
+and dropping items. 
+
+ 
+*Note: A Thief can trade items to other characters if he/she is close enough.*
+
 
 
 #### Combat Full Screen
@@ -309,18 +313,16 @@ and dropping items (unless you're a thief see ####THIEF?)
  
 Press F3 to toggle full screen combat and [normal combat screen](#combat-screen).
 
-
 #### Automatic moves and Manual moves
 
-(NPCs link) and monsters are generally controlled by the game. Players will usually have
-a combat menu with 
+NPCs and monsters are generally controlled by the game (auto-mode). Players will usually have
+a combat menu to move and take other actions manually. The menu contains an AUTO option
+to change the character to game controlled. Press F2 to put all players in to auto-mode,
+press ESC to turn off auto-mode.
 
+To move a chracter chose MOVE menu and use the direction keys. Moving at an enemy will do a melee attack.
 
+*Note: Moving away from an enemy next to you gives them a melee attack against you. Same with monsters.*
 
-<hr>
-fdkjh sfsdf
-fsdfsf
-fsdf
-sfsf
-sfsdfs
-fsfsdf
+*If an enemy is guarding then moving up to them will give them a melee attack against you. Same if you are guarding and they move to you.*
+

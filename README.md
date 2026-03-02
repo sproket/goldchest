@@ -117,7 +117,7 @@ There also random encounters which are tuned to your number of players and avera
 This game is currently "ALPHA" so it works but there's a lot left to do!
 Here's the link to discord:
 
-https://discord.gg/ghH4Xax9
+https://discord.gg/maNZztT56N
 
 Here's the link to my google drive for the game.
 
