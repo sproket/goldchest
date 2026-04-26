@@ -12,6 +12,7 @@
 * https://zapsplat.com for some of the sound effects
 * https://freesound.org/ for some sound clips
 * https://soundimage.org for some music
+* https://www.cgtrader.com/ for some 3d models
 
 
 "Ship Helm" (https://skfb.ly/6YKIJ) by sidouw is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
