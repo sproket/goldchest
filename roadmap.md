@@ -7,7 +7,7 @@
 * Red text on player panel for status if not OK
 * Pugilism
 * Improve treasure chest visibility in dark places with rotation animation
-* TEXT in tactical combat view
+* Text messages in tactical combat view
 * Disable ability for Thief (target moves are reduced and guarding is turned off)
 * TerrainPanel TimeOfDay check for added images
 * Lights over Inn and Tavern  
@@ -21,7 +21,7 @@
 * WB Partial ArenaFloorTexture support
 * Support AI using magic items in combat.
 * Magic bows and magic arrows (arrows take precedent)
-* Added Gauntlet rule (penalty wearing Gauntlets  )
+* Added Gauntlet rule (penalty wearing Gauntlets when using bowed ranged weapons)
 * Early evening terrain image and darken image at night in the terrain
 
 ### Fixes
