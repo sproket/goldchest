@@ -14,6 +14,16 @@
 * https://soundimage.org for some music
 * https://www.cgtrader.com/ for some 3d models
 
+Map backgrounds
+* Catherine Brougham https://ca.pinterest.com/catbro101/ 
+* Nameless https://ca.pinterest.com/namelessfos/
+* Wesley https://ca.pinterest.com/wesr909/
+* Arturo Ricardo https://ca.pinterest.com/achuzoncrisanto4/
+* Jana Abdelrady https://ca.pinterest.com/janaabdelrady/
+* Citranirma https://ca.pinterest.com/citranirma0208/
+* Michele Colella https://ca.pinterest.com/mikelecoll/
+* Pann Layaung https://ca.pinterest.com/layaungp259/
+
 
 "Ship Helm" (https://skfb.ly/6YKIJ) by sidouw is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
