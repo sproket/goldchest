@@ -1,5 +1,32 @@
 # Roadmap
-           
+
+## Version 1.0.1.3
+
+### Features
+
+* Intro screen with credits 
+* Handle reaching level 20 (Profession name changes based on classes levelled in, Other abilities free up for player to acquire)
+* Handle backstab when disguised (AI mode too)
+* Trade to shows target name
+* Handle Poisoning
+* Memorize scroll now shows YES/NO menu and mana cost
+* Blank Intro screen on game start
+* Handle Disarm skill for thief
+* Handle lighting in dark areas vs outside changes with time of day
+* Disguise makes target invisible instead of skull image
+* At level 20 thief can get detect curse so won't pick pocket cursed items
+* Better organize Equipped item order
+* Advanced cartography skill now keeps existing parts of maps - saved in saved game
+* Map screen now has nice backdrop images - maps cleaned up to look nicer
+* Combat radar to only appear if a character has Tactics ability
+
+### Fixes
+
+* Fix Midi continuing playing when quitting the app.
+* CombatMove conflict on oneCastPerCombat and continuing spells caused crash
+* Fixed duped player in 2 taverns
+* Fixed point light (torch lantern etc)
+
 ## Version 1.0.1.2
 
 ### Features
