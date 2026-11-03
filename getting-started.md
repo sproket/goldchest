@@ -1,17 +1,5 @@
 # Getting started
 
-[Read the manual first](manual.md)
-
-Note about D&D rules
-
-Early on I decided that I don't want to be committed to D&D rules, although I do reference some
-of it for monster levels etc.. Monsters may surprise you though as they have other abilities.  
-I'm using 100 based numbers rather than 18. 100 is max human level for your reference when
-rolling.
-
-
-
-
 ## Creating Characters
 
 Specify the charcter Name, Sex and Race. You can Roll as many times as you want until you find attributes you like.
@@ -52,11 +40,16 @@ While you're at the guild someone in the party might want to learn basic cartogr
 There are a variety of pre-fab combat encounters that once you find, you can go 
 back to as they reset when you enter the same area again. For now,
 you can always exit combat and "win" by choosing "EXIT" in the combat menu. (easier for leveling up testing)
-There also random encounters which are tuned to your number of players and average level so combat will always be challenging.
+There also random encounters which are tuned to your number of players and average level so combat 
+will always be challenging but not overwhelming.
 
 Some spells can be cast outside combat like heal and strength, the others are combat only.
 
 
 After combat to rest, go to an Inn. REST menu will rest characters and restore mana and hp.
 
+
+## Next steps
+
+[Game manual](manual.md)
 

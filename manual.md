@@ -4,12 +4,40 @@
 
 [//]: # ( <div w3-include-html="content.html"></div> )
 
+## Features
+                     
+* 4 distinct classes which can be mixed to create unique characters
+* 21,669,120 possible character icon combinations
+* First person exploration in dungeons and towns 
+* Overhead exploration in wilderness areas
+* Up to 9 party members including NPCs
+* Tactical turn-based combat
+* 2 distinct magic systems
+* Experience for exploration
+* Interactive fiction style interaction with the enviromnent
+* Day/night lighting
+* Hundreds of unique monsters
+* Hundreds of unique spells and abilities
+
+
 ## Introduction
 
-blah blah blah
+Goldchest is a RPG dungeon crawler exploration and combat game. Inspired by the original Goldbox games which used D&D rules.
 
-Blah features up to 9 party members (6 is usual to allow for NPCs in the party). Tactical combat.
-2 distinct magic systems, experience for exploration,
+
+
+Note about D&D rules
+
+Early on I decided that I don't want to be committed striclty to D&D rules, although I do reference some
+of it for monster levels etc.. Monsters may surprise you though as they have other abilities.  
+I'm using 100 based numbers rather than 18. 100 is max human level for your reference when
+rolling.
+
+
+
+
+
+
 
 ## Game User Interface
 
@@ -602,6 +630,24 @@ To move a chracter chose MOVE menu and use the direction keys. Moving at an enem
 *If an enemy is guarding then moving up to them will give them a melee attack against you. Same if you are guarding and they move to you.*
 
 *Fighters gain attacks every 3 levels, clerics and thieves every 4 and Mage every 5. (you get X 2 when you are enlarged or hasted)*
+    
+#### Finishing Combat and Treasure Screen
+
+Once you have defeated the enemies in combat you will gain experience and often find treasure. 
+If there is treasure you will see the treasure screen where you will see a list of items and currency to collect.
+
+The hightlighted player's abilties are used here. Having Armor lore, Weapon lore and Item lore allow the character 
+to potentially identify items. Unidentified items let you know roughly what it is but not the specific type. 
+If the character has Magic lore then items will display a star next to items which are magical. Similar with holy items. 
+Note some items may be cursed! A cleric with the Detect curse ability can detect these. 
+                                      
+#### Treasure Chest
+
+Sometimes after combat you may find a treasure chest. Chests contain a variety of items and currency. 
+To open a chest use the interact menu option to enter into interactive fiction mode. Use text based 
+commands to attempt to open the chest. Some chests may be trapped so be careful!
+
+
 
 
 ### Monster types
